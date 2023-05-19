@@ -1,4 +1,4 @@
-const Rental = require('./Rental'); // Предполагается, что у вас есть отдельный файл Rental.js с реализацией модели Rental
+const Rental = require('../models/rental'); // Предполагается, что у вас есть отдельный файл Rental.js с реализацией модели Rental
 
 class RentalController {
   constructor() {
