@@ -1,0 +1,16 @@
+.info-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.info-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.info-info {
+  width: 24px;
+  height: 24px;
+}
