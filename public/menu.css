@@ -17,13 +17,13 @@
   background-color: rgba(255, 255, 255, 1);
 }
 .menu-text {
-  top: 84px;
-  left: 159px;
+  top: 66px;
+  left: 69px;
   color: rgba(36, 46, 56, 1);
-  width: 199px;
+  width: 307px;
   height: auto;
   position: absolute;
-  font-size: 30px;
+  font-size: 35px;
   font-style: Regular;
   text-align: left;
   font-family: Montserrat;
@@ -32,6 +32,84 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.menu-image42 {
+  top: 182px;
+  left: 47px;
+  width: 56px;
+  height: 53px;
+  position: absolute;
+}
+.menu-text02 {
+  top: 144px;
+  left: 47px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.menu-text04 {
+  top: 259px;
+  left: 313px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.menu-text06 {
+  top: 259px;
+  left: 50px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.menu-text08 {
+  top: 194px;
+  left: 82px;
+  color: rgba(0, 0, 0, 1);
+  width: 186px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.menu-go-back {
+  top: 15px;
+  left: 15px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+}
+
+
+
 .menu-text02 {
   top: 130px;
   left: 159px;
@@ -204,21 +282,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.menu-text08 {
-  top: 201px;
-  left: 116px;
-  color: rgba(0, 0, 0, 1);
-  height: auto;
-  position: absolute;
-  font-size: 24px;
-  font-style: Regular;
-  text-align: center;
-  font-family: Montserrat;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
+
 .menu-text10 {
   top: 369px;
   left: 116px;
