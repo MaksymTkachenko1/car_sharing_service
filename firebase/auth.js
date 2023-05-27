@@ -9,7 +9,7 @@ import { getAuth } from "firebase/auth";
 // Конфигурация Firebase вашего веб-приложения
 // Для Firebase JS SDK версии 7.20.0 и более поздних, measureId необязателен
 const firebaseConfig = {
-  apiKey: "AIzaSyCkSupfRF4H0kjSfWoupbkt4888MHwpkVc",
+  apiKey: "",
   authDomain: "car-sharing-service-387620.firebaseapp.com",
   projectId: "car-sharing-service-387620",
   storageBucket: "car-sharing-service-387620.appspot.com",
