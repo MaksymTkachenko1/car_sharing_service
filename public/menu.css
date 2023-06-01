@@ -1,0 +1,236 @@
+.menu-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.menu-menu {
+  width: 100%;
+  height: 736px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.menu-text {
+  top: 84px;
+  left: 159px;
+  color: rgba(36, 46, 56, 1);
+  width: 199px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.menu-text02 {
+  top: 130px;
+  left: 159px;
+  color: rgba(166, 205, 78, 1);
+  width: 181px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.menu-userboxduotoneline {
+  top: 82px;
+  left: 69px;
+  width: 79px;
+  height: 75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.menu-subtract {
+  top: 6.25px;
+  left: 6.5833330154418945px;
+  width: 66px;
+  height: 62px;
+  position: absolute;
+}
+.menu-ellipse45 {
+  top: 53.125px;
+  left: 19.75px;
+  width: 39px;
+  height: 31px;
+  position: absolute;
+  border-color: rgba(34, 34, 34, 1);
+  border-style: solid;
+  border-width: 1.2000000476837158px;
+}
+.menu-ellipse46 {
+  top: 21.875px;
+  left: 29.625px;
+  width: 20px;
+  height: 19px;
+  position: absolute;
+  border-color: rgba(34, 34, 34, 1);
+  border-style: solid;
+  border-width: 1.2000000476837158px;
+}
+.menu-rectangle26 {
+  top: 6.25px;
+  left: 6.583333492279053px;
+  width: 66px;
+  height: 62px;
+  position: absolute;
+  border-color: rgba(34, 34, 34, 1);
+  border-style: solid;
+  border-width: 1.2000000476837158px;
+  border-radius: 4px;
+}
+.menu-go-back {
+  top: 22px;
+  left: 11px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+}
+.menu-rectangle12 {
+  top: 182px;
+  left: 44px;
+  width: 326px;
+  height: 67px;
+  position: absolute;
+  border-radius: 10px;
+}
+.menu-rectangle13 {
+  top: 266px;
+  left: 44px;
+  width: 326px;
+  height: 67px;
+  position: absolute;
+  border-radius: 10px;
+}
+.menu-rectangle14 {
+  top: 350px;
+  left: 44px;
+  width: 326px;
+  height: 67px;
+  position: absolute;
+  border-radius: 10px;
+}
+.menu-rectangle15 {
+  top: 434px;
+  left: 44px;
+  width: 326px;
+  height: 67px;
+  position: absolute;
+  border-radius: 10px;
+}
+.menu-accesstime {
+  top: 280px;
+  left: 56px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.menu-love {
+  top: 364px;
+  left: 56px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.menu-phone {
+  top: 447px;
+  left: 56px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.menu-magnetic-card {
+  top: 196px;
+  left: 56px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.menu-text04 {
+  top: 285px;
+  left: 116px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.menu-text06 {
+  top: 453px;
+  left: 116px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.menu-iconactionstarrate {
+  top: 404px;
+  left: 92px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.menu-text08 {
+  top: 201px;
+  left: 116px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.menu-text10 {
+  top: 369px;
+  left: 116px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

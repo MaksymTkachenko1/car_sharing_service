@@ -1,0 +1,71 @@
+.fav-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.fav-fav {
+  width: 100%;
+  height: 736px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.fav-text {
+  top: 20px;
+  left: 131px;
+  color: rgba(36, 46, 56, 1);
+  width: 307px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.fav-image42 {
+  top: 80px;
+  left: 38px;
+  width: 56px;
+  height: 53px;
+  position: absolute;
+}
+.fav-text2 {
+  top: 92px;
+  left: 73px;
+  color: rgba(0, 0, 0, 1);
+  width: 186px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.fav-go-back {
+  top: 15px;
+  left: 15px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+}
+.fav-eye {
+  top: 88px;
+  left: 328px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+}
